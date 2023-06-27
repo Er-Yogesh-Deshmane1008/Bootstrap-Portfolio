@@ -65,10 +65,9 @@ a {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
-
 }
 
-.left-col-block{
+.left-col-block {
   width: 50%;
   text-align: center;
   overflow: hidden;
@@ -76,7 +75,7 @@ a {
   left: 0;
 }
 
-.rigth-col-block{
+.rigth-col-block {
   width: 50%; 
   position: absolute;
   right: 0;
@@ -88,10 +87,9 @@ a {
     position: relative;
   }
 
-  .rigth-col-block{
+  .rigth-col-block {
     width: 100%;
     position: relative;
-
   }
 }
 
